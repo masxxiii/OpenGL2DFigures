@@ -39,19 +39,19 @@ U - Clockwise rotation
 The project should be opened in **Microsoft Visual Studio**. Simply compile the project and run it. You will be presented with an interface. You can move the figures around
 
 <p align="center">
-  <img src="./OpenGlLab5/gitResources/1.PNG" alt="UI" width="300" height="300">
+  <img src="./gitResources/1.PNG" alt="UI" width="300" height="300">
 </p>
 
 Figures can also be rotated clockwise and counterclockwise.
 
 <p align="center">
-  <img src="./OpenGlLab5/gitResources/2.PNG" alt="UI" width="300" height="300">
+  <img src="./gitResources/2.PNG" alt="UI" width="300" height="300">
 </p>
 
 Figure 1 can be rotated around Figure 2 in clockwise and counterclockwise direction.
 
 <p align="center">
-  <img src="./OpenGlLab5/gitResources/3.PNG" alt="UI" width="300" height="300">
+  <img src="./gitResources/3.PNG" alt="UI" width="300" height="300">
 </p>
 
 <br />
