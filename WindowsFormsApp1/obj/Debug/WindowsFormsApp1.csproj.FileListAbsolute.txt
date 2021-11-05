@@ -1,0 +1,51 @@
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.pdb
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.xml
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\для масуда\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\для масуда\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\для масуда\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\для масуда\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\для масуда\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\для масуда\WindowsFormsApp1\bin\Debug\OpenTK.pdb
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\для масуда\WindowsFormsApp1\bin\Debug\OpenTK.xml
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\для масуда\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\для масуда\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\для масуда\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\для масуда\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\для масуда\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\для масуда\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\для масуда\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\для масуда\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\для масуда\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\chtul\Desktop\Course 3\КГ\Лабораторные\№5\для масуда\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Masood\Downloads\OpenGlLab5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Masood\Downloads\OpenGlLab5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Masood\Downloads\OpenGlLab5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Masood\Downloads\OpenGlLab5\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\Masood\Downloads\OpenGlLab5\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Masood\Downloads\OpenGlLab5\WindowsFormsApp1\bin\Debug\OpenTK.pdb
+C:\Users\Masood\Downloads\OpenGlLab5\WindowsFormsApp1\bin\Debug\OpenTK.xml
+C:\Users\Masood\Downloads\OpenGlLab5\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Masood\Downloads\OpenGlLab5\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Masood\Downloads\OpenGlLab5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Masood\Downloads\OpenGlLab5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Masood\Downloads\OpenGlLab5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Masood\Downloads\OpenGlLab5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Masood\Downloads\OpenGlLab5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Masood\Downloads\OpenGlLab5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Masood\Downloads\OpenGlLab5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Masood\Downloads\OpenGlLab5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Laboratory_Work_5.resources
