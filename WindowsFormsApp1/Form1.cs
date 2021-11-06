@@ -356,7 +356,6 @@ namespace WindowsFormsApp1
         {
             GL.Viewport(0, 0, controlWindow.Width, controlWindow.Height);
             GL.ClearColor(1f, 1f, 1f, 1);
-            GL.Clear(ClearBufferMask.ColorBufferBit);
             if (rotatingA)
                 rotating_direction_A += 0.5;
             else
