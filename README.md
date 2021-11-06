@@ -51,7 +51,7 @@ Figures can also be rotated clockwise and counterclockwise.
 Figure 1 can be rotated around Figure 2 in clockwise and counterclockwise direction.
 
 <p align="center">
-  <img src="./gitResources/X.PNG" alt="UI" width="300" height="300">
+  <img src="./gitResources/P.PNG" alt="UI" width="300" height="300">
 </p>
 
 <br />
