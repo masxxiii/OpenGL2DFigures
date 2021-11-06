@@ -36,7 +36,7 @@ T - Counterclockwise rotation
 U - Clockwise rotation
 ```
 
-The project should be opened in **Microsoft Visual Studio**. Simply compile the project and run it. You will be presented with an interface. You can move the figures around
+The project should be opened in **Microsoft Visual Studio**. Simply compile the project and run it. You will be presented with an interface. You can move the figures around.
 
 <p align="center">
   <img src="./gitResources/1.PNG" alt="UI" width="300" height="300">
