@@ -8,7 +8,7 @@ A C# program to draw two 2D figures using OpenGL.
 <br />
 
 ## Info:
-The program is built with OpenTK framework which is a C# graphics library superseding the Tao Framework. The program creates two unique shapes **Figure 1** and **Figure 2** and brings motion into them using OpenGL methods such as **GL.Rotate** and **GL.Scale**. Both figures can change their position based on the unique keyboard keys assigned to them. Both figures can scaleUp, ScaleDown and rotate clockwise and counterclockwise. Additionally, **Figure 1** can rotate clockwise and counterclockwise around **Figure 2**. The following program can be used as a base for a simple 2D game.
+The program is built using OpenTK framework which is a C# graphics library superseding the Tao Framework. The program creates two unique shapes **Figure 1** and **Figure 2** and brings motion into them using OpenGL methods such as **GL.Rotate** and **GL.Scale**. Both figures can change their position based on the unique keyboard keys assigned to them. Both figures can scaleUp, ScaleDown and rotate clockwise and counterclockwise. Additionally, **Figure 1** can rotate clockwise and counterclockwise around **Figure 2**. The following program can be used as a base for a simple 2D game.
 
 The keybinding for **Figure 1** are as follows:
 ```shell
